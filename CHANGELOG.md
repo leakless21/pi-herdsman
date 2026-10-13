@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.27.0](https://github.com/boadij/pi-herdsman/compare/v0.26.0...v0.27.0) (2026-10-13)
+
+
+### Features
+
+* **agents:** clarify internal review and roster-agnostic guidance ([#384](https://github.com/boadij/pi-herdsman/issues/384)) ([0dc62d3](https://github.com/boadij/pi-herdsman/commit/0dc62d39b63afe2d273d687b9e49e7114f2fcfa3))
+* **agents:** streamline runtime capability discovery ([#380](https://github.com/boadij/pi-herdsman/issues/380)) ([a422c80](https://github.com/boadij/pi-herdsman/commit/a422c804b5fdf2f2bf631695bb12d8539e053071))
+
 ## [0.26.0](https://github.com/boadij/pi-herdsman/compare/v0.25.1...v0.26.0) (2026-10-12)
 
 
